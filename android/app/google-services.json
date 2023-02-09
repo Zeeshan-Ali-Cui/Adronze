@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "866021312489",
+    "project_id": "dronze-b32e9",
+    "storage_bucket": "dronze-b32e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866021312489:android:e36cfe29162ffa82a2ad78",
+        "android_client_info": {
+          "package_name": "com.example.adronze"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "866021312489-a0kh0b0rnk89hlolt5k85ro4378nfu1s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiLvDLIZZrXnGdEah7p8R4kT1hh6Astg0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "866021312489-a0kh0b0rnk89hlolt5k85ro4378nfu1s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
